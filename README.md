@@ -7,14 +7,15 @@ c:\> npm create vite@latest
 
 c:\> cd app
 c:\ app> npm install
-c:\ app> npm run dev
 c:\ app> npm i react-router-dom
+c:\ app> npm run dev
 </pre>
 
 onde:
 - npm create vite@latest -> criar um app [reactjs](https://react.dev/) com o [vite](https://vitejs.dev/)
 - npm install -> instala as dependências do projeto
 - npm i react-router-dom -> instala o [react-router-dom](https://reactrouter.com/en/main)
+- npm run dev -> executa o projeto
 
 esse exemplo utiliza o [vite](https://vitejs.dev/) para gerar o projeto [reactjs](https://react.dev/)
 - [nodejs](https://nodejs.org/pt)
